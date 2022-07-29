@@ -1,5 +1,4 @@
 # SimpleRouter
-[![License](https://poser.pugx.org/izniburak/router/license.svg)](https://packagist.org/packages/mosz/simple-router)  
 Simple object oriented Router for php 
 - Support `GET`, `POST` methods
 
