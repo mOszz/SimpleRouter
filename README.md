@@ -17,7 +17,7 @@ $router->get('path', function(){ ... });
 
 $router->run(); 
 ```
-Routes utilisation :
+#### Routes utilisation :
 - Basic use
 ```php
 $router->get('HelloWorld', function(){ echo "Hello World"; });
