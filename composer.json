@@ -1,9 +1,12 @@
 {
     "name": "mosz/simple-router",
     "description": "Simple MVC Router for php",
+    "keywords": ["router", "routing", "php"],
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
-            "name": "mOszz",
+            "name": "Victor Wacquet",
             "email": "victor.wacquet07@gmail.com"
         }
     ],
