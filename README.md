@@ -2,6 +2,11 @@
 Simple object oriented Router for php 
 - Support `GET`, `POST` methods
 
+## Installation
+Run the following command
+```
+composer require mosz/simple-router
+```
 
 ## Usage
 basic index.php file
