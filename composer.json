@@ -1,0 +1,16 @@
+{
+    "name": "mosz/simple-router",
+    "description": "Simple MVC Router for php",
+    "authors": [
+        {
+            "name": "mOszz",
+            "email": "victor.wacquet07@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mOsz\\Router\\": "src"
+        }
+    },
+    "require": {}
+}
